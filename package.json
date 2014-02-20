@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-rotate-out",
+  "description": "rotate-out animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "rotate-out"
+  ],
+  "styles": [
+    "rotate-out.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
